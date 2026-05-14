@@ -382,7 +382,7 @@ with st.sidebar:
     st.markdown("""
     **Pesquisador**\n
     Amauri Almeida — Portfólio Ambiental\n
-    📍 Ouroeste · SP · Brasil\n
+    📍 São Paulo · SP · Brasil\n
     [🌐 GitHub](https://github.com/amaurialmeida)
     """)
 
